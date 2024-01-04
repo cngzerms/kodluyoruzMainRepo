@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, p, span {
+    color: greenyellow;
+    font-size: x-large;
+}
